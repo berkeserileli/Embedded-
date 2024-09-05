@@ -1,2 +1,0 @@
-# Embedded-
-Embedded C Programming
